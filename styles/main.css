@@ -78,9 +78,7 @@ margin-right: 50px ;
 .header__nav-item:hover {
     color: #00ff6a;
     /* border-color: #f10808; */
-    transition-property: color border ;
-transition-duration: 200ms;
-transition-timing-function: linear;
+ */
 }
 
 .header__nav-item:last-child{
